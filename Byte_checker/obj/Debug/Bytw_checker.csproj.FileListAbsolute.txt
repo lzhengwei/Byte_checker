@@ -1,0 +1,10 @@
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\obj\Debug\Bytw_checker.csprojAssemblyReference.cache
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\obj\Debug\Bytw_checker.Form1.resources
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\obj\Debug\Bytw_checker.csproj.GenerateResource.cache
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\obj\Debug\Bytw_checker.csproj.CoreCompileInputs.cache
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\bin\Debug\Byte_checker.exe.config
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\bin\Debug\Byte_checker.exe
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\bin\Debug\Byte_checker.pdb
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\obj\Debug\Byte_checker.Properties.Resources.resources
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\obj\Debug\Byte_checker.exe
+C:\Users\102819\source\repos\Bytw_checker\Bytw_checker\obj\Debug\Byte_checker.pdb
